@@ -1,4 +1,4 @@
-## Hi 👋 , I am [Manvendra!](https://github.com/manvendra-rajpoot)
+## Hi 👋 , I am [Manvendra!](https://drive.google.com/file/d/1n-h7bRcF-scAL578ZoQ7qVJuNaGNneDH/view?usp=sharing)
 
 <a href="https://www.linkedin.com/in/manvendra-rajpoot-5aa353179/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -13,7 +13,7 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m a junior pursuing my Bachelors in Computer Science And Technology from IIEST Shibpur. </br>
+🎓 I’m a junior pursuing my Bachelors in Computer Science And Technology at IIEST Shibpur. </br>
 👨‍💻  I am passionate about Web Dev, Machine Learning & I enjoy solving competitive programming questions and learning new things. </br>
 
 
