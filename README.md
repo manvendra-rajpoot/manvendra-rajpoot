@@ -6,6 +6,9 @@
 <a href="https://www.linkedin.com/in/manvendrajpoot/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
+<a href="https://dev.to/manvendrajpoot">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Manvendra Rajpoot's DEV Profile" width="26px" align="left">
+</a>
 <a href="https://twitter.com/manvendrajpoot_/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
