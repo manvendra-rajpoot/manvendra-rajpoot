@@ -1,4 +1,4 @@
-## Hi 👋 , I am [Manvendra!](https://manvendra-rajpoot.web.app/)
+## Hi 👋 , I am [Manvendra!](https://manvendra-cv.web.app/)
 <a href="mailto:manvendra141986@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
