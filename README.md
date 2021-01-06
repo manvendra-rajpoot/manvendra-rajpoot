@@ -1,4 +1,4 @@
-## Hi 👋 , I am [Manvendra!](https://manvendra-cv.web.app/)
+## Hi 👋 , I am [Manvendra !](https://manvendra-rajpoot.web.app/)
 <a href="mailto:manvendra141986@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
@@ -22,7 +22,7 @@
 
 ### About Me 🚀
 🎓 I’m a junior pursuing my Bachelors in Computer Science And Technology at IIEST Shibpur. </br>
-👨‍💻  I am passionate about Web Dev, Machine Learning & I enjoy solving competitive programming questions and learning new things. </br>
+👨‍💻  I am open-source enthusiast, a learner, passionate about Web Development and Machine Learning & enjoy solving competitive programming questions. I am looking to collaborate in Open Source and make new friends. </br>
 
 
 ![Manvendra's Github Stats](https://github-readme-stats.vercel.app/api?username=manvendra-rajpoot&show_icons=true&hide_border=true)
