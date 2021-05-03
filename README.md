@@ -1,10 +1,13 @@
 ## Hi 👋 , I am [Manvendra](https://manvendra-rajpoot.web.app/) !
 
 ### About Me 🚀
-🎓 I’m a junior pursuing my Bachelors in Computer Science And Technology at IIEST Shibpur. </br>
-👨‍💻  I'm an open-source enthusiast, a learner, passionate about Web Development, DevOps, and Machine Learning & enjoy solving competitive programming questions. I am looking to collaborate in Open Source and make new friends. </br>
+🎓  I’m a junior pursuing my Bachelor's in Computer Science and Technology at IIEST Shibpur. </br>
+👨‍💻   I'm an open-source enthusiast, a learner, passionate about Web Development, DevOps, and Machine Learning & enjoy solving competitive programming questions. </br>
+<!-- 🔭  I’m currently working on </br> -->
+🌱  I’m currently learning DevOps fundamentals.</br>
+👯  I'm looking to collaborate in Open Source and make new friends. </br>
 
-### Reach me 📫
+### Reach Me 📫
 <a href="mailto:manvendra141986@gmail.com">
   <img align="left" width="30px" src="https://img.icons8.com/fluent/48/000000/email-open.png" alt="Email"/>
 </a>
