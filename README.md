@@ -2,10 +2,9 @@
 
 ### About Me 🚀
 🎓  I’m a junior pursuing my Bachelor's in Computer Science and Technology at IIEST Shibpur. </br>
-👨‍💻   I'm an open-source enthusiast, a learner, passionate about Web Development, DevOps, and Machine Learning & enjoy solving competitive programming questions. </br>
-<!-- 🔭  I’m currently working on </br> -->
+👨‍💻   I'm an open-source enthusiast, a learner, passionate about Web Development, DevOps, and Machine Learning & enjoy solving competitive programming questions. </br> <!-- 🔭  I’m currently working on </br> -->
 🌱  I’m currently learning DevOps fundamentals.</br>
-👯  I'm looking to collaborate in Open Source and make new friends. </br>
+👯  I'm looking to collaborate in open-source web development projects and make new friends. </br>
 
 ### Reach Me 📫
 <a href="mailto:manvendra141986@gmail.com">
