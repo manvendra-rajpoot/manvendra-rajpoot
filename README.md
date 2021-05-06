@@ -1,10 +1,21 @@
-## Hi 👋 , I am [Manvendra](https://manvendra-rajpoot.web.app/) !
+## Hello 👋 , I am [Manvendra](https://manvendra-rajpoot.web.app/) !
 
 ### About Me 🚀
 🎓  I’m a junior pursuing my Bachelor's in Computer Science and Technology at IIEST Shibpur. </br>
 👨‍💻   I'm an open-source enthusiast, a learner, passionate about Web Development, DevOps, and Machine Learning & enjoy solving competitive programming questions. </br> <!-- 🔭  I’m currently working on </br> -->
 🌱  I’m currently learning DevOps fundamentals.</br>
 👯  I'm looking to collaborate in open-source web development projects and make new friends. </br>
+
+### Accomplishments 🎖️
+- 3* CodeChef
+- Certified in Problem Solving, JavaScript at [HackerRank](https://www.hackerrank.com/manu264). </br>
+
+### Honors & Awards 🏅
+- Selected as a scholarship recipient for [KubeCon + CloudNativeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) in 2021.</br>
+
+### Volunteering 🙌
+- [Code For Cause](https://codecau.se/yt) - It is an initiative to help the students by providing training, guidance and most importantly awareness about the opportunities in the field of software, tech and Open-source.
+
 
 ### Reach Me 📫
 <a href="mailto:manvendra141986@gmail.com">
@@ -19,12 +30,12 @@
 <a href="https://twitter.com/manvendrajpoot_/">
   <img align="left" width="34px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/>
 </a>
-<a href="https://www.instagram.com/manvendrajpoot_/">
+<!-- <a href="https://www.instagram.com/manvendrajpoot_/">
   <img align="left" width="30px" src="https://img.icons8.com/fluent/64/000000/instagram-new.png" alt="Instagram"/>
 </a>
 <a href="https://www.facebook.com/manvendrajpoot.0/">
   <img align="left" width="30px" src="https://img.icons8.com/fluent/50/000000/facebook-new.png" alt="fb" />
-</a>
+</a> -->
 <a href="https://manvendra-rajpoot.web.app/">
   <img align="left" width="30px" src="https://img.icons8.com/plumpy/48/000000/portfolio.png" alt="Portfolio" />
 </a>
