@@ -33,12 +33,12 @@
 <!-- <a href="https://www.instagram.com/manvendrajpoot_/">
   <img align="left" width="30px" src="https://img.icons8.com/fluent/64/000000/instagram-new.png" alt="Instagram"/>
 </a>
-<a href="https://www.facebook.com/manvendrajpoot.0/">
-  <img align="left" width="30px" src="https://img.icons8.com/fluent/50/000000/facebook-new.png" alt="fb" />
-</a> -->
+<a href="#">
+  <img align="left" width="30px" src="https://img.icons8.com/material-two-tone/24/000000/open-resume.png" alt="fb" />
+</a>-->
 <a href="https://manvendra-rajpoot.web.app/">
   <img align="left" width="30px" src="https://img.icons8.com/plumpy/48/000000/portfolio.png" alt="Portfolio" />
-</a>
+</a> 
 <br />
 <br />
 
