@@ -1,7 +1,7 @@
 ## Hello 👋 , I am [Manvendra](https://manvendra-rajpoot.web.app/) !
 
 ### About Me 🚀
-🎓  I am a junior pursuing my Bachelor's in Computer Science and Technology at IIEST Shibpur. </br>
+🎓  I am a senior pursuing my Bachelor's in Computer Science and Technology at IIEST Shibpur. </br>
 👨‍💻   I am an open-source enthusiast, a learner, passionate about Web Development, DevOps, and enjoy solving competitive programming questions. </br> 
 <!-- 🔭  I’m currently working on </br> -->
 🌱  I am currently learning DevOps fundamentals.</br>
