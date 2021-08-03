@@ -1,15 +1,14 @@
-## Hello 👋 , I am [Manvendra](https://manvendra-rajpoot.web.app/) !
+## Hello 👋 , I am [Manvendra](https://drive.google.com/file/d/1UUlkplj6CfEOshGLsbtD2kidPR34TyWk/view?usp=sharing) !
 
 ### About Me 🚀
 🎓  I am a senior pursuing my Bachelor's in Computer Science and Technology at IIEST Shibpur. </br>
 👨‍💻   I am an open-source enthusiast, a learner, passionate about Web Development, DevOps, and enjoy solving competitive programming questions. </br> 
-<!-- 🔭  I’m currently working on </br> -->
 🌱  I am currently learning DevOps fundamentals.</br>
 👯  I am looking to collaborate in open-source web development projects and make new friends. </br>
 
 ### Accomplishments 🎖️
 - 3* CodeChef
-- Certified in Problem Solving, JavaScript at [HackerRank](https://www.hackerrank.com/manu264). </br>
+- Certified in Problem Solving, JavaScript, C at [HackerRank](https://www.hackerrank.com/manu264). </br>
 
 ### Honors & Awards 🏅
 - Selected as a scholarship recipient for [SUSE Cloud Native Foundations Scholarship Program](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship) in 2021.</br>
