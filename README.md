@@ -26,7 +26,7 @@
   <img align="left" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
 </a>
 <a href="https://dev.to/manvendrajpoot">
-  <img width="23px" align="left" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV" />
+  <img align="left" width="34px" src="https://img.icons8.com/windows/32/000000/dev.png" alt="DEV" />
 </a>
 <a href="https://twitter.com/manvendrajpoot_/">
   <img align="left" width="34px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/>
