@@ -1,4 +1,4 @@
-## Hello 👋 , I am [Manvendra](https://drive.google.com/file/d/1UUlkplj6CfEOshGLsbtD2kidPR34TyWk/view?usp=sharing) !
+## Hello 👋 , I am [Manvendra](https://drive.google.com/file/d/1OC4kfcrDPlcqh5E3dKz2-8VMUyKznsPw/view?usp=sharing) !
 
 ### About Me 🚀
 🎓  I am a senior pursuing my Bachelor's in Computer Science and Technology at IIEST Shibpur. </br>
@@ -28,7 +28,7 @@
 <a href="https://dev.to/manvendrajpoot">
   <img align="left" width="34px" src="https://img.icons8.com/windows/32/000000/dev.png" alt="DEV" />
 </a>
-<a href="https://twitter.com/manvendrajpoot_/">
+<a href="https://twitter.com/manvendrajpoot/">
   <img align="left" width="34px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/>
 </a>
 <!-- <a href="https://www.instagram.com/manvendrajpoot_/">
