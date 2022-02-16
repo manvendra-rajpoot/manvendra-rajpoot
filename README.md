@@ -1,22 +1,13 @@
 ## Hello 👋 , I am [Manvendra](https://drive.google.com/file/d/1OC4kfcrDPlcqh5E3dKz2-8VMUyKznsPw/view?usp=sharing) !
 
 ### About Me 🚀
-🎓  I am a senior pursuing my Bachelor's in Computer Science and Technology at IIEST Shibpur. </br>
-👨‍💻   I am an open-source enthusiast, a learner, passionate about Web Development, DevOps, and enjoy solving competitive programming questions. </br> 
-🌱  I am currently learning DevOps fundamentals.</br>
-👯  I am looking to collaborate in open-source web development projects and make new friends. </br>
+- 🎓  I am a senior pursuing my Bachelor's in Computer Science and Technology at IIEST Shibpur. </br>
+- 👨‍💻   I am an open-source enthusiast, a learner, passionate about Web Development, DevOps, and enjoy solving competitive programming questions. </br> 
+- 🌱  I am currently learning DevOps fundamentals.</br>
+- 👯  I am looking to collaborate in open-source web development projects and make new friends. </br>
 
-### Accomplishments 🎖️
-- 3* CodeChef
-- Certified in Problem Solving, JavaScript, C at [HackerRank](https://www.hackerrank.com/manu264). </br>
-
-### Honors & Awards 🏅
-- Selected as a scholarship recipient for [SUSE Cloud Native Foundations Scholarship Program](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship) in 2021.</br>
-- Selected as a scholarship recipient for [KubeCon + CloudNativeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) in 2021.</br>
-
-### Volunteering 🙌
-- [Code For Cause](https://codecau.se/yt) - It is an initiative to help the students by providing training, guidance and most importantly awareness about the opportunities in the field of software, tech and Open-source.
-
+### Work Experience
+- 🔭 I am currently working as Application Developer Intern @ IBM.
 
 ### Reach Me 📫
 <a href="mailto:manvendra141986@gmail.com">
