@@ -1,17 +1,13 @@
 ## Hello 👋 , I am [Manvendra](https://drive.google.com/file/d/1142X_TTMidSCg5z4lBEPcadLQMbGwTw-/view?usp=sharing) !
 
 ### About Me 🚀
-- 🎓  I hold bachelors' degree in Computer Science & Technology from IIEST Shibpur. </br>
-- 👨‍💻   I am an open-source enthusiast, a learner, passionate about Web Development, DevOps, and enjoy solving competitive programming questions. </br> 
-- 🌱  I am currently learning DevOps fundamentals.</br>
-- 👯  I am looking to collaborate in open-source web development projects and make new friends. </br>
-
-### Work Experience
-- I worked as Application Developer Intern at IBM.
-- 🔭 I am currently working as R&D Engineer at Samsung Research Intstitute - Noida.
+- 🎓  Bachelors' degree in Computer Science & Technology from IIEST Shibpur. </br>
+- 👨‍💻  Open-source enthusiast, a learner, passionate about Web Development, DevOps, and enjoy solving competitive programming questions. </br> 
+<!-- 🌱  I am currently learning DevOps fundamentals.</br>-->
+- 👯  Looking to collaborate in open-source web development projects and make new friends. </br>
 
 ### Reach Me 📫
-<a href="mailto:manvendra141986@gmail.com">
+<a href="mailto:sinveer600@gmail.com">
   <img align="left" width="30px" src="https://img.icons8.com/fluent/48/000000/email-open.png" alt="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/manvendrajpoot/">
